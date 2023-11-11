@@ -58,6 +58,7 @@ Fairlearn techniques, like the **ThresholdOptimizer**, are used to mitigate bias
 2. Install the required libraries using `pip install -r requirements.txt`.
 3. Execute the code in the order of sections to visualize each step of the process.
 
----
+## 👨‍💻 Contributor
+ [LinkedIn](https://www.linkedin.com/in/chaimae-elfathi/) | [GitHub](https://github.com/chamafthi)
 
-This version highlights the technical aspects, methods used, model performances, and also integrates Fairlearn to ensure model fairness.
+
