@@ -1,0 +1,15 @@
+# Contents of requirements.txt
+
+# Data Manipulation and Analysis
+pandas==1.3.3
+numpy==1.21.2
+
+# Model Building and Evaluation
+scikit-learn==0.24.2
+
+# Data Visualization
+seaborn==0.11.2
+matplotlib==3.4.3
+
+# Fairness in AI
+fairlearn==0.8.0
